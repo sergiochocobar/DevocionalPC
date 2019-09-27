@@ -1,4 +1,4 @@
-# Devocional PC - Maquetación Web
+# Devocional PC - Desarrollo Front-end
 - Diseño Responsivo
 - Mobile First
 - HTML 5
